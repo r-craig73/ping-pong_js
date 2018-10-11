@@ -22,8 +22,6 @@
 * HTML
 * JavaScript
 * Webpack and npm
-* Jasmine
-* Karma
 
 ## MIT License
 
